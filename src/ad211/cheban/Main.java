@@ -1,7 +1,7 @@
 package ad211.cheban;
 
 public class Main {
-    public static void main(String[] args) {
+    public static void main(String[] args) { // висхідне перетворення
         Person student_1 = new Student("Чебан","Катерина",18,"АД-211",87655460);
         Person student_2 = new Student("Смик","Валерія",18,"АД-211",54767569);
         Person student_3 = new Student("Ахмад","Аніта",18,"АД-211",46709867);
